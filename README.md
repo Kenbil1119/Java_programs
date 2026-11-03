@@ -1,11 +1,12 @@
 # Java Programs
 
+
 📌 Table Of Contents.
 
-- [Introduction] (#-introduction)
-- [Overview] (#-overview)
-- [Getting started] (#-getting-started)
-- [Repository status] (#-repository-status)
+- [Introduction][introduction]
+- [Overview][overview]
+- [Getting started][getting-started]
+- [Repository status][repository-status]
 
 
 ## 💁‍♂️ Introduction
@@ -41,3 +42,7 @@ Programs and exercises will be documented here as they are added. There is no
 repository-wide build tool or test suite configured yet.
 
 [def]: https://github.com/Kenbil1119
+[introduction]: #-introduction
+[overview]: #-overview
+[getting-started]: #-getting-started
+[repository-status]: #-repository-status
